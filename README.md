@@ -1,3 +1,3 @@
 # github-pages-harjoitus
 
-Käyttäjäsivu löytt osoitteesta [Manu.github.oi](Https://Manutvv.github.oi)
+Käyttäjäsivu löytt osoitteesta [manutvv.github.oi](Https://mnutvv.github.oi)
